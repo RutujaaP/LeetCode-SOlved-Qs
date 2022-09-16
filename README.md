@@ -1,1 +1,1 @@
-# LeetCode-SOlved-Qs
+# LeetCode-Solved-Qs
